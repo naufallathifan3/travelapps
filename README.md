@@ -1,16 +1,20 @@
 # travelapps
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Nama   : Naufal Lathifan Yumna
 
-A few resources to get you started if this is your first Flutter project:
+NIM    : 32602200110
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+tugas  : mobile programming
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+tema   : travel app
+
+link desain app : https://dribbble.com/shots/19998673-Travel-App
+
+
+
+[demo aplikasi travel app](https://github.com/user-attachments/assets/c5ffac71-05a1-45be-a1e8-6309793e766e)
+
+
+
